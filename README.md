@@ -15,7 +15,9 @@ You can also enable it to listen in the background and have your main thread of 
 Check out the official documentation for a better understanding.
 
 TO RUN THE FILE:
-You can run the .py file normally as a python file i.e. Open cmd at the file location and type: 
+
+You can run the .py file normally as a python file i.e. Open cmd at the file location and type :
+\
 *python speech_to_text.py*
 
 To run on the notebook file, open jupyter notebook or any notebook editor and run all the cells.
